@@ -1683,7 +1683,7 @@
         "string": "User phone number not set"
     },
     "auth.error.require-two-factor": {
-        "string": "Two-factor not enabled on account"
+        "string": "帐户未启用双因素认证"
     },
     "auth.error.require-validation": {
         "string": "Unable to validate request."
@@ -2187,10 +2187,10 @@
         "string": "Please enter a code"
     },
     "auth.two-factor-setup.error.sms-two-factor-already-enabled": {
-        "string": "SMS two-factor authentication is already enabled"
+        "string": "短信双因素认证已经启用"
     },
     "auth.two-factor-setup.error.two-factor-already-enabled": {
-        "string": "Two-factor authentication is already enabled"
+        "string": "双因素认证已启用"
     },
     "auth.two-factor-setup.generic-twilio-error": {
         "string": "Error sending verification code"
@@ -2253,25 +2253,25 @@
         "string": "SMS sent to {phoneNumber}. Please allow up to a minute for the SMS to arrive, then enter the authentication code below."
     },
     "auth.two-factor-setup.sms_settings": {
-        "string": "SMS settings"
+        "string": "短信设置"
     },
     "auth.two-factor-setup.sms_two_factor_authentication": {
-        "string": "SMS two-factor authentication"
+        "string": "短信双因素认证"
     },
     "auth.two-factor-setup.sms_two_factor_authentication_is_enabled": {
-        "string": "SMS two-factor authentication is enabled"
+        "string": "短信双因素认证已经启用"
     },
     "auth.two-factor-setup.this_will_disable_two_factor_authentication_entirely": {
         "string": "This will disable two-factor authentication entirely."
     },
     "auth.two-factor-setup.two_factor_authentication_enabled": {
-        "string": "Two-factor authentication enabled!"
+        "string": "双因素认证已启用!"
     },
     "auth.two-factor-setup.two_factor_authentication_is_enabled": {
-        "string": "Two-factor authentication is enabled"
+        "string": "双因素认证已启用"
     },
     "auth.two-factor-setup.two_factor_recovery_codes": {
-        "string": "Two-factor recovery codes"
+        "string": "双因素认证恢复代码"
     },
     "auth.two-factor-setup.type_the_text_code_into_your_app": {
         "string": "Type the text code into your app."
@@ -2289,7 +2289,7 @@
         "string": "Verify your email address before enabling two-factor authentication."
     },
     "auth.two-factor.authentication-code": {
-        "string": "Authentication code"
+        "string": "身份验证码"
     },
     "auth.two-factor.back": {
         "string": "后退"
@@ -2718,7 +2718,7 @@
         "string": "Link previews cannot be pasted into Figma"
     },
     "bindings.no_file_access": {
-        "string": "You don't have access to this file"
+        "string": "你没有权限访问这个文件"
     },
     "bindings.paste_as_layers": {
         "string": "Paste as layers"
@@ -6897,7 +6897,7 @@
         "string": "Plugin name"
     },
     "community.plugin_development.save_as": {
-        "string": "Save as"
+        "string": "保存为"
     },
     "community.plugin_development.setup_guide": {
         "string": "setup guide"
@@ -7230,10 +7230,10 @@
         "string": "Withdraw from review"
     },
     "community.plugins.you_don_t_have_any_plugins_in_development": {
-        "string": "You don't have any plugins in development."
+        "string": "你没有任何开发中的插件。"
     },
     "community.plugins.you_don_t_have_any_plugins_saved": {
-        "string": "You don't have any plugins saved."
+        "string": "你没有保存任何插件。"
     },
     "community.plugins.you_ll_need_the_link_to_create_and_manage_your_own_plugins": {
         "string": "You'll need the {link} to create and manage your own plugins"
@@ -8622,7 +8622,7 @@
         "string": "View all collections"
     },
     "community.signed_out_footer.learn_more_about_figma": {
-        "string": "Learn more about Figma"
+        "string": "了解更多关于 Figma 的信息"
     },
     "community.signed_out_modal.create_an_account_to_join_the_figma_community": {
         "string": "Create an account to join the Figma Community"
@@ -20337,7 +20337,7 @@
         "string": "保存"
     },
     "org_settings.leave_org.confirm_modal_button": {
-        "string": "Leave {orgName}"
+        "string": "离开 {orgName}"
     },
     "org_settings.leave_org.confirm_modal_message": {
         "string": "You are currently a {guest} at {orgName} organization. If you leave the organization you will lose access to all content that has been shared with you. The operation cannot be undone."
@@ -23055,7 +23055,7 @@
         "string": "你确定吗？"
     },
     "proto.mirror.authentication_code": {
-        "string": "Authentication code"
+        "string": "身份验证码"
     },
     "proto.mirror.cancel": {
         "string": "取消"
@@ -25500,13 +25500,13 @@
         "string": "点击这里"
     },
     "settings.account_settings.install_font_service_for_local": {
-        "string": "Local fonts are currently not enabled. Install font service to enable local fonts. {learnMoreLink}"
+        "string": "目前没有启用本地字体。安装字体服务以启用本地字体。 {learnMoreLink}"
     },
     "settings.account_settings.language": {
         "string": "语言"
     },
     "settings.account_settings.learn_more_about_captioning": {
-        "string": "Learn more about captioning {learnMoreLink}"
+        "string": "了解更多关于字幕的信息 {learnMoreLink}"
     },
     "settings.account_settings.leave": {
         "string": "离开"
@@ -25515,10 +25515,10 @@
         "string": "组件库"
     },
     "settings.account_settings.local_fonts_are_currently_not_supported_for_this_operating_system": {
-        "string": "Local fonts are currently not supported for this operating system."
+        "string": "该操作系统目前不支持本地字体。"
     },
     "settings.account_settings.local_fonts_are_enabled_you_have_local_font_count_fonts_available_in_figma": {
-        "string": "Local fonts are enabled. You have {localFontCount} fonts available in Figma."
+        "string": "本地字体已启用。 在Figma中，您有 {localFontCount} 种字体可供选择。"
     },
     "settings.account_settings.managed_by_google": {
         "string": "Managed by Google"
@@ -25557,7 +25557,7 @@
         "string": "主题"
     },
     "settings.account_settings.to_disable_local_fonts_follow_the_uninstall_steps_in_the": {
-        "string": "To disable local fonts, follow the uninstall steps in the {helpCenterLink}"
+        "string": "要禁用本地字体，请按照以下的卸载步骤操作 {helpCenterLink}"
     },
     "settings.account_settings.upgrade_figma_plan_header": {
         "string": "升级 Figma 计划"
@@ -27792,7 +27792,7 @@
         "string": "This is your only chance to do so!"
     },
     "tokens.settings.no_connected_apps": {
-        "string": "You don't have any connected apps."
+        "string": "你没有任何连接的应用程序。"
     },
     "tokens.settings.revoke_access": {
         "string": "撤销访问"
