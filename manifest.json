@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "FigmaCN",
-  "short_name": "FigmaCN",
-  "description": "中文 Figma 插件，设计师人工翻译校验。",
-  "version": "1.0",
+  "name": "Figma i18n",
+  "short_name": "Figma i18n",
+  "description": "Figma i18n forked from FigmaCN",
+  "version": "0.0.2",
   "homepage_url": "https://figma.cool",
   "icons": {
     "16": "img/icon-16.png",
@@ -11,6 +11,16 @@
     "128": "img/icon-128.png"
   },
   "content_scripts": [
+    {
+      "matches": [
+        "*://*.figma.com/*"
+      ],
+      "js": [
+        "js/script.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": false
+    },
     {
       "matches": [
         "*://*.figma.com/*"
@@ -26,5 +36,12 @@
     "scripts": [
       "js/background.js"
     ]
-  }
+  },
+  "permissions": [
+    "webRequest",
+    "*://*.figma.com/*"
+  ],
+  "web_accessible_resources": [
+    "locales/*/dictionary.json"
+  ]
 }
