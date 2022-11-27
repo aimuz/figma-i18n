@@ -2088,7 +2088,7 @@
         "string": "You will need an authenticator mobile app to complete this process, such as one of the following:"
     },
     "auth.two-factor-setup.authenticator_apps_are_enabled": {
-        "string": "Authenticator apps are enabled"
+        "string": "身份验证器应用程序已启用"
     },
     "auth.two-factor-setup.authy": {
         "string": "Authy"
@@ -2130,7 +2130,7 @@
         "string": "Continue to recovery codes"
     },
     "auth.two-factor-setup.disable-authenticator-app": {
-        "string": "Disable"
+        "string": "禁用"
     },
     "auth.two-factor-setup.disable_two_factor_auth": {
         "string": "Disable two-factor authentication"
@@ -20259,7 +20259,7 @@
         "string": "Create drafts, files, or projects in other teams or organizations"
     },
     "org_settings.external_collaboration_controls.disable": {
-        "string": "Disable"
+        "string": "禁用"
     },
     "org_settings.external_collaboration_controls.enable": {
         "string": "Enable (default)"
