@@ -3564,7 +3564,7 @@
         "string": "This layer was removed"
     },
     "collaboration.branching_from_source.this_page_was_removed": {
-        "string": "This page was removed"
+        "string": "当前页面已被删除"
     },
     "collaboration.branching_from_source.this_style_was_removed": {
         "string": "This style was removed"
@@ -13353,7 +13353,7 @@
         "string": "Send a request to edit {teamName}."
     },
     "file_browser.team.team_leave_confirmation_title": {
-        "string": "Leave {teamName}?"
+        "string": "离开 {teamName}?"
     },
     "file_browser.team.team_leave_warning_title_hold_up": {
         "string": "稍等一下…"
@@ -13926,7 +13926,7 @@
         "string": "圆角矩形"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-square": {
-        "string": "方头"
+        "string": "矩形"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-triangle-down": {
         "string": "三角形"
@@ -15426,7 +15426,7 @@
         "string": "纯色"
     },
     "fullscreen.properties_panel.stroke_settings.square": {
-        "string": "方头"
+        "string": "矩形"
     },
     "fullscreen.properties_panel.stroke_settings.straight": {
         "string": "直线"
@@ -17031,7 +17031,7 @@
         "string": "圆角矩形"
     },
     "fullscreen_actions.set-tool-shape-whiteboard-square": {
-        "string": "方头"
+        "string": "矩形"
     },
     "fullscreen_actions.set-tool-shape-whiteboard-triangle-down": {
         "string": "三角形"
@@ -17145,10 +17145,10 @@
         "string": "平滑连接所选项"
     },
     "fullscreen_actions.sort-by-author": {
-        "string": "Sort by author"
+        "string": "按作者排序"
     },
     "fullscreen_actions.sort-by-color": {
-        "string": "Sort by color"
+        "string": "按颜色排序"
     },
     "fullscreen_actions.sort-by-stamps": {
         "string": "Sort by stamps"
@@ -18369,7 +18369,7 @@
         "string": "圆头"
     },
     "inspect_panel.strokes.cap_square": {
-        "string": "方头"
+        "string": "矩形"
     },
     "inspect_panel.strokes.cap_triangle_arrow": {
         "string": "三角形箭头"
@@ -20343,13 +20343,13 @@
         "string": "You are currently a {guest} at {orgName} organization. If you leave the organization you will lose access to all content that has been shared with you. The operation cannot be undone."
     },
     "org_settings.leave_org.confirm_modal_title": {
-        "string": "Leave {orgName} organization"
+        "string": "离开 {orgName} 组织"
     },
     "org_settings.leave_org.guest": {
-        "string": "guest"
+        "string": "访客"
     },
     "org_settings.library_subscription_confirm.already_browsable": {
-        "string": "This library will show up in all organization files by default."
+        "string": "这个库将默认显示在所有组织文件中。"
     },
     "org_settings.library_subscription_confirm.already_browsable.enable_button": {
         "string": "Enable library"
@@ -21957,7 +21957,7 @@
         "string": "SSO and advanced security"
     },
     "plan_details.start_for_free": {
-        "string": "Start for free"
+        "string": "免费开始"
     },
     "plan_details.starter": {
         "string": "入门版"
@@ -22236,7 +22236,7 @@
         "string": "Silver / White"
     },
     "presets.styles.apple_watch_space_grey_and_black": {
-        "string": "Space Grey / Black"
+        "string": "深空灰 / 黑"
     },
     "presets.styles.apple_watch_starlight": {
         "string": "Starlight"
@@ -22599,7 +22599,7 @@
         "string": "Ready to edit?"
     },
     "pro_edit_action.primary_button_text": {
-        "string": "Start editing"
+        "string": "开始编辑"
     },
     "project_creation.cancel": {
         "string": "取消"
@@ -24462,7 +24462,7 @@
         "string": "Skip this step"
     },
     "rcs.team_welcome.start_for_free": {
-        "string": "Start for free"
+        "string": "免费开始"
     },
     "rcs.team_welcome.starter": {
         "string": "入门版"
@@ -30489,7 +30489,7 @@
         "string": "竖屏"
     },
     "whiteboard.crop_presets.square": {
-        "string": "方头"
+        "string": "矩形"
     },
     "whiteboard.crop_presets.wide": {
         "string": "Wide"
@@ -31479,7 +31479,7 @@
         "string": "圆角矩形"
     },
     "whiteboard.shapes.square": {
-        "string": "方头"
+        "string": "矩形"
     },
     "whiteboard.shapes.triangle": {
         "string": "三角形"
