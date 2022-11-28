@@ -59,7 +59,7 @@ func main() {
 		}
 	}
 
-	b, err = json.MarshalIndent(dictionary, "", "    ")
+	b, err = json.Marshal(dictionary)
 	if err != nil {
 		panic(err)
 	}

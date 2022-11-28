@@ -2,6 +2,16 @@
 sync:
 	@echo "sync figma locals"
 
-build:
+dist:
+dist:
+	mkdir dist
+
+build: dist
 	go run sync.go
-	web-ext build --ignore-files *.js dictionary.json *.go go.* --overwrite-dest
+	@cp manifest.json dist/
+	@cp LICENSE dist/
+	@cp README.md dist/
+	@cp -r img dist/
+	@cp -r js dist/
+	@cp -r locales dist/
+	web-ext build -s dist/ --i **/locale.json -o
