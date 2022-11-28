@@ -306,10 +306,10 @@
         "string": " Renamed the {workspaceName} workspace to {newName}."
     },
     "activity_log.event.oauth_token_grant": {
-        "string": "Connected {appName}"
+        "string": "已连接 {appName}"
     },
     "activity_log.event.oauth_token_grant_unknown": {
-        "string": "Connected unknown app"
+        "string": "已连接 unknown app"
     },
     "activity_log.event.oauth_token_revoke": {
         "string": "Disconnected {appName}"
@@ -3060,7 +3060,7 @@
         "string": "Closing other tabs and reloading Figma may reduce browser memory and allow you to continue reviewing and merging this branch."
     },
     "collaboration.branching.connecting": {
-        "string": "Connecting..."
+        "string": "连接中..."
     },
     "collaboration.branching.copy_link": {
         "string": "复制链接"
@@ -11442,13 +11442,13 @@
         "string": "Inserting instance"
     },
     "design_systems.subscriptions.remap_connected": {
-        "string": "Connected!"
+        "string": "已连接!"
     },
     "design_systems.subscriptions.remap_connecting_fraction": {
-        "string": "Connecting: {current}/{total}"
+        "string": "连接中: {current}/{total}"
     },
     "design_systems.subscriptions.remap_connection_failed": {
-        "string": "Connection failed"
+        "string": "连接失败"
     },
     "design_systems.subscriptions.this_component_is_not_available": {
         "string": "This component is not available in your team library"
@@ -16161,10 +16161,10 @@
         "string": "删除和修复所选项"
     },
     "fullscreen_actions.delete-current-table-column": {
-        "string": "Delete column"
+        "string": "删除列"
     },
     "fullscreen_actions.delete-current-table-row": {
-        "string": "Delete row"
+        "string": "删除行"
     },
     "fullscreen_actions.delete-prototype-starting-point": {
         "string": "删除起始点"
@@ -24933,7 +24933,7 @@
         "string": "{selectedFontsCount, plural, one {Delete font} other {Delete fonts}}"
     },
     "resources_tab.shared_fonts_table.delete_font": {
-        "string": "Delete font"
+        "string": "删除字体"
     },
     "resources_tab.shared_fonts_table.embedded_upload_fonts_link": {
         "string": "upload fonts"
@@ -27768,7 +27768,7 @@
         "string": "已连接的应用"
     },
     "tokens.settings.connected_time_ago": {
-        "string": "Connected {timeAgo}"
+        "string": "已连接 {timeAgo}"
     },
     "tokens.settings.copy_token": {
         "string": "Copy this token."
