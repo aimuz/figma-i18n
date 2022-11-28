@@ -4,4 +4,4 @@ sync:
 
 build:
 	go run sync.go
-	web-ext build --ignore-files *.js dictionary.json *.go go.*
+	web-ext build --ignore-files *.js dictionary.json *.go go.* --overwrite-dest

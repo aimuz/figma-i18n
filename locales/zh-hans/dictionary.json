@@ -7194,7 +7194,7 @@
         "string": "Try out this widget to see what’s possible in Figma"
     },
     "community.plugins.unpublish_resource_type": {
-        "string": "Unpublish {resourceType}"
+        "string": "取消发布 {resourceType}"
     },
     "community.plugins.update_plugin_details": {
         "string": "Update plugin details"
@@ -9666,7 +9666,7 @@
         "string": "Unlimited projects"
     },
     "consumption_paywalls.unlimited_version_history": {
-        "string": "Unlimited version history"
+        "string": "无限的版本历史"
     },
     "consumption_paywalls.upgrade_to_have_quick_easy_conversations_right_from_your_file": {
         "string": "Upgrade to have quick, easy conversations—right from your file."
@@ -10869,7 +10869,7 @@
         "string": "{numSkipped, plural, one {Unable to unpublish {numSkipped} change from the Team Library} other {Unable to unpublish {numSkipped} changes from the Team Library}}"
     },
     "design_systems.publish_actions.unpublish_failed": {
-        "string": "Unpublishing failed: {reason}"
+        "string": "取消发布失败： {reason}"
     },
     "design_systems.publish_actions.unpublish_success": {
         "string": "Successfully unpublished library"
@@ -17607,7 +17607,7 @@
         "string": "Unhide all objects"
     },
     "fullscreen_actions.unlock-all": {
-        "string": "Unlock all objects"
+        "string": "解锁所有对象"
     },
     "fullscreen_actions.unstack-selection": {
         "string": "移除自动布局"
@@ -17856,7 +17856,7 @@
         "string": "See the full history of changes to your file, and easily go back to older versions."
     },
     "help_widget.discover_more_widget.item_history_title": {
-        "string": "Unlimited version history"
+        "string": "无限的版本历史"
     },
     "help_widget.discover_more_widget.item_libraries_description": {
         "string": "Publish components for easy access from any of your team’s files."
@@ -21984,7 +21984,7 @@
         "string": "Unlimited team FigJam files"
     },
     "plan_details.unlimited_version_history": {
-        "string": "Unlimited version history"
+        "string": "无限的版本历史"
     },
     "plan_details.upgrade": {
         "string": "升级"
@@ -23133,7 +23133,7 @@
         "string": "Uh oh... WebGL isn't supported."
     },
     "proto.mirror.update_figma_app": {
-        "string": "Update Figma app"
+        "string": "更新 Figma 应用程序"
     },
     "proto.mirror.www_figma_com_mirror": {
         "string": "www.figma.com/mirror"
@@ -24492,7 +24492,7 @@
         "string": "Unlimited projects"
     },
     "rcs.team_welcome.unlimited_version_history": {
-        "string": "Unlimited version history"
+        "string": "无限的版本历史"
     },
     "rcs.team_welcome.upgrade": {
         "string": "升级"
@@ -30810,7 +30810,7 @@
         "string": "Text background"
     },
     "whiteboard.inline_menu.unlock": {
-        "string": "Unlock"
+        "string": "解锁"
     },
     "whiteboard.inline_menu.variants": {
         "string": "变体"
