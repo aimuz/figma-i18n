@@ -2,8 +2,8 @@
   "manifest_version": 2,
   "name": "Figma i18n",
   "short_name": "Figma i18n",
-  "description": "Figma i18n forked from FigmaCN",
-  "version": "0.0.6",
+  "description": "Figma 本土化翻译扩展 Figma i18n forked from FigmaCN",
+  "version": "0.0.7",
   "homepage_url": "https://figma.cool",
   "icons": {
     "16": "img/icon-16.png",
